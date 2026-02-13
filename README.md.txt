@@ -31,7 +31,7 @@ This project predicts whether a bank customer will churn (exit) using Logistic R
 - seaborn
 - scikit-learn
 
-"## How to Run the Project
+## How to Run the Project
 
 1.Clone the repository to your local machine using:
 
@@ -45,7 +45,7 @@ This project predicts whether a bank customer will churn (exit) using Logistic R
 
 4.Open the Jupyter Notebook named Task3_Customer_Churn.ipynb.
 
-5.Run all the cells in the notebook sequentially to execute the analysis."
+5.Run all the cells in the notebook sequentially to execute the analysis.
 
 Author
 Ruba Faizan
